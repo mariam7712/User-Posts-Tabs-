@@ -14,4 +14,4 @@ This project is a simple web application that fetches user data and their posts 
 2. The application will fetch user data from https://jsonplaceholder.typicode.com/users.
 3. Usernames will be displayed as tabs.
 4. Clicking on a tab will fetch and display the posts for the selected user.
-# User-Posts-Tabs-
+
